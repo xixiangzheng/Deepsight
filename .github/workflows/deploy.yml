@@ -41,6 +41,8 @@ jobs:
 
       - name: Build website
         run: npm run docs:build:ci
+        env:
+          SITE_BASE: /Deepsight/
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3

@@ -23,7 +23,7 @@ ls -la /sys/kernel/btf/vmlinux
 由于项目中以 Git Submodule 形式引入了 `libbpf`，必须确保子模块也被完整拉取：
 
 ```bash
-git clone --recursive https://github.com/riyueshan/deepsight.git
+git clone --recursive https://github.com/xixiangzheng/Deepsight.git
 cd deepsight
 ```
 

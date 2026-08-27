@@ -194,7 +194,7 @@ export default defineConfig({
       ]
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/riyueshan/deepsight", ariaLabel: "GitHub" }
+      { icon: "github", link: "https://github.com/xixiangzheng/Deepsight", ariaLabel: "GitHub" }
     ],
     search: {
       provider: "local"
