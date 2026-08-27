@@ -47,7 +47,7 @@ export default defineConfig({
     }
   },
   themeConfig: {
-    logo: `${base}brand/logo.svg`,
+    logo: "/brand/logo.svg",
     siteTitle: "Deepsight",
     nav: [
       { text: "首页", link: "/" },
